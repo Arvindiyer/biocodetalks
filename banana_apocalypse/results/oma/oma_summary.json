@@ -1,0 +1,119 @@
+{
+ "human_main_isoforms": 20430,
+ "banana_main_isoforms": 35012,
+ "human_banana_pairs_all": 13522,
+ "human_banana_pairs_main_isoforms": 13522,
+ "human_genes_with_banana_ortholog": 3683,
+ "pct_human_genes_with_banana_ortholog": 18.0,
+ "banana_genes_with_human_ortholog": 6193,
+ "pct_banana_genes_with_human_ortholog": 17.7,
+ "rel_type_counts": {
+  "m:n": 9488,
+  "1:n": 2468,
+  "1:1": 1236,
+  "m:1": 330
+ },
+ "identity_best_per_human_gene": {
+  "n": 3683,
+  "median": 40.6,
+  "mean": 43.7,
+  "q25": 33.9,
+  "q75": 50.3,
+  "pct_above_80": 2.3,
+  "pct_below_40": 47.8
+ },
+ "oma_api": "https://omabrowser.org/api",
+ "retrieved": "2026-09-27",
+ "showcase": [
+  {
+   "gene": "Histone H3.1",
+   "human": "H31_HUMAN",
+   "banana": "M0T8F3",
+   "banana_omaid": "MUSAM41211",
+   "rel_type": "m:n",
+   "pct_identity": 97.3,
+   "human_len": 136,
+   "banana_len": 113
+  },
+  {
+   "gene": "Ubiquitin B",
+   "human": "UBB_HUMAN",
+   "banana": "A0A804K3U9",
+   "banana_omaid": "MUSAM04573",
+   "rel_type": "1:n",
+   "pct_identity": 95.6,
+   "human_len": 229,
+   "banana_len": 231
+  },
+  {
+   "gene": "Actin, beta",
+   "human": "ACTB_HUMAN",
+   "banana": "A0A804JKY6",
+   "banana_omaid": "MUSAM21086",
+   "rel_type": "m:n",
+   "pct_identity": 90.1,
+   "human_len": 375,
+   "banana_len": 377
+  },
+  {
+   "gene": "Cytochrome c",
+   "human": "CYC_HUMAN",
+   "banana": "A0A804JI51",
+   "banana_omaid": "MUSAM21983",
+   "rel_type": "1:n",
+   "pct_identity": 67.3,
+   "human_len": 105,
+   "banana_len": 112
+  },
+  {
+   "gene": "GAPDH",
+   "human": "G3P_HUMAN",
+   "banana": "A0A804KDU5",
+   "banana_omaid": "MUSAM02602",
+   "rel_type": "m:n",
+   "pct_identity": 71.3,
+   "human_len": 335,
+   "banana_len": 429
+  },
+  {
+   "gene": "Tubulin beta",
+   "human": "TBB5_HUMAN",
+   "banana": "A0A804HYT5",
+   "banana_omaid": "MUSAM36233",
+   "rel_type": "m:n",
+   "pct_identity": 86.9,
+   "human_len": 444,
+   "banana_len": 446
+  },
+  {
+   "gene": "Insulin",
+   "human": "INS_HUMAN",
+   "banana": null,
+   "banana_omaid": null,
+   "rel_type": null,
+   "pct_identity": null,
+   "human_len": null,
+   "banana_len": null
+  },
+  {
+   "gene": "Haemoglobin beta",
+   "human": "HBB_HUMAN",
+   "banana": null,
+   "banana_omaid": null,
+   "rel_type": null,
+   "pct_identity": null,
+   "human_len": null,
+   "banana_len": null
+  },
+  {
+   "gene": "Keratin 1",
+   "human": "KRT1_HUMAN",
+   "banana": null,
+   "banana_omaid": null,
+   "rel_type": null,
+   "pct_identity": null,
+   "human_len": null,
+   "banana_len": null
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+code,species,pairs,human_genes_with_ortholog,human_genes_total,pct_human_genes
+PANTR,Chimpanzee,21190,18639,20430,91.2
+MOUSE,Mouse,22292,18096,20430,88.6
+DANRE,Zebrafish,18364,12331,20430,60.4
+DROME,Fruit fly,6483,5446,20430,26.7
+CAEEL,Nematode worm,6610,4929,20430,24.1
+ARATH,Arabidopsis,12070,3723,20430,18.2
+MUSAM,Banana,13522,3683,20430,18.0
+YEAST,Baker's yeast,3124,2260,20430,11.1
+ECOLI,E. coli,1034,642,20430,3.1

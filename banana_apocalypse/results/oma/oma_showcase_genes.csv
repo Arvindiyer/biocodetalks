@@ -1,0 +1,10 @@
+gene,human,banana,banana_omaid,rel_type,pct_identity,human_len,banana_len
+Histone H3.1,H31_HUMAN,M0T8F3,MUSAM41211,m:n,97.3,136.0,113.0
+Ubiquitin B,UBB_HUMAN,A0A804K3U9,MUSAM04573,1:n,95.6,229.0,231.0
+"Actin, beta",ACTB_HUMAN,A0A804JKY6,MUSAM21086,m:n,90.1,375.0,377.0
+Cytochrome c,CYC_HUMAN,A0A804JI51,MUSAM21983,1:n,67.3,105.0,112.0
+GAPDH,G3P_HUMAN,A0A804KDU5,MUSAM02602,m:n,71.3,335.0,429.0
+Tubulin beta,TBB5_HUMAN,A0A804HYT5,MUSAM36233,m:n,86.9,444.0,446.0
+Insulin,INS_HUMAN,,,,,,
+Haemoglobin beta,HBB_HUMAN,,,,,,
+Keratin 1,KRT1_HUMAN,,,,,,
