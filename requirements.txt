@@ -4,3 +4,5 @@ matplotlib
 requests
 biopython
 manim
+
+datasketches
